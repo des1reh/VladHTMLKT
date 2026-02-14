@@ -1,0 +1,45 @@
+body{
+  color:white;
+  background-image: url(https://polterra.ru/wa-data/public/shop/products/97/58/15897/images/26407/26407.970.jpg);
+  background-attachment:fixed;
+background-repeat:repeat;
+}
+
+h1{
+  font-family:'Montserrat',sans-serif;
+  font-weight: 700;
+  color:yellow;
+  font-size:36px;
+  text-align:center
+}
+h2{
+  font-family:'Montserrat',sans-serif;
+  font-weight: 600;
+  color:brown;
+  font-size:26px;
+}
+h3{
+  font-family:'Montserrat',sans-serif;
+  font-weight: 400;
+  color:brown;
+  font-size:22px;
+}
+p{
+  font-family:'Montserrat',sans-serif;
+  font-weight: 400;
+  color:white;
+  font-size:18px
+}
+li{
+  font-family:'Montserrat',sans-serif;
+  font-weight: 400;
+  color:white;
+  font-size:18px
+}
+header{
+  background-color:grey
+}
+footer{
+  background-color:grey;
+  text-align:left
+}
